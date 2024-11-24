@@ -1,4 +1,4 @@
-![logo](https://github.com/SaveeraReddy/saveeravajrala/blob/main/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20.png)
+![logo](https://github.com/SaveeraReddy/SaveeraReddy/blob/main/Blue%20Corporate%20Linkedin%20Article%20Cover%20image%20.png)
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 <a href="https://app.daily.dev/saveera"><img src="https://api.daily.dev/devcards/v2/kIkarEfP0oToYgN4AbjWL.png?type=default&r=e1h" width="356" alt="Saveera's Dev Card"/></a>
