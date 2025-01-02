@@ -11,8 +11,9 @@
     
 ## My Roadmap Progress
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/ai-data-scientist?s=677645ab70129741a8ad6be1t/v1-badge/tall/saveerareddy?variant=dark" alt="roadmap.sh"></a>
-
+<a href="https://roadmap.sh/ai-data-scientist">
+  <img src="https://roadmap.sh/badge/complete/ai-data-scientist" alt="roadmap.sh">
+</a>
 
 </p>
 
