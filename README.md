@@ -11,10 +11,7 @@
     
 ## My Roadmap Progress
 
-<a href="https://roadmap.sh/ai-data-scientist">
-  <img src="https://roadmap.sh/badge/complete/ai-data-scientist" alt="roadmap.sh">
-</a>
-![Saveera's roadmap](https://roadmap.sh/u/saveerareddy)
+[Saveera's roadmap](https://roadmap.sh/u/saveerareddy)
 
 </p>
 
