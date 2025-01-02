@@ -10,7 +10,7 @@
 
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%; max-width: 800px; margin: auto;">
   <div>
     <a href="https://app.daily.dev/saveera">
       <img src="https://api.daily.dev/devcards/v2/kIkarEfP0oToYgN4AbjWL.png?type=default&r=e1h" width="356" alt="Saveera's Dev Card"/>
