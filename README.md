@@ -28,6 +28,13 @@
   </div>
 </div>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/saveera-reddy-0679ab265" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saveera-reddy-0679ab265" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/saveera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="saveera" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/saveera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saveera" height="30" width="40" /></a>
+</p>
+
 <h3 align="center" style="font-size: 1.5rem;">🏅 GSSOC 2024 Badges</h3>
 <div style='display: flex; align-items: center; gap: 10px;' align='center'>
   <a href="https://gssoc.girlscript.tech/leaderboard">
